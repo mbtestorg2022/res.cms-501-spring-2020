@@ -3,7 +3,7 @@ leftnav:
   name: Instructor Insights
   url: /pages/instructor-insights
   weight: 10
-- identifier: external-1580efb65612451dab4ea1be9e5354a4
+- identifier: external-ed8f1062bd2249698710bca9bce99ad0
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.501x+2T2019/about
   weight: 1000
